@@ -6,7 +6,7 @@
 /*   By: luamonteiro <luamonteiro@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/08 13:58:39 by luamonteiro       #+#    #+#             */
-/*   Updated: 2024/10/12 01:26:56 by luamonteiro      ###   ########.fr       */
+/*   Updated: 2024/10/13 23:01:30 by luamonteiro      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 # include <stdarg.h>
 # include <stdlib.h>
 # include <unistd.h>
-# include "../libft/libft.h"
+# include "../ft_lib/libft.h"
 
 int	ft_putchr(char c);
 int	ft_putstri(char *str);
